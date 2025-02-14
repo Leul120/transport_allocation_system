@@ -5,21 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78133d1d-625d-4443-90e3-a986ec3fa44e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/transport-allocation-system.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/transport-allocation-system.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/stationCamera" beforeDir="false" afterPath="$PROJECT_DIR$/stationCamera" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stationCamera/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/stationCamera/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stationCamera/src/main/java/com/stationCamera/StationCameraApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/stationCamera/src/main/java/com/stationCamera/StationCameraApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stationCamera/src/main/java/com/stationCamera/config/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/stationCamera/src/main/java/com/stationCamera/config/JwtAuthenticationFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stationCamera/src/main/java/com/stationCamera/services/impl/AuthenticationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/stationCamera/src/main/java/com/stationCamera/services/impl/AuthenticationServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stationCamera/src/main/java/com/stationCamera/services/impl/JwtServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/stationCamera/src/main/java/com/stationCamera/services/impl/JwtServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tas" beforeDir="false" afterPath="$PROJECT_DIR$/tas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tas/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/tas/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tas/src/main/java/com/tas/services/impl/JwtServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/tas/src/main/java/com/tas/services/impl/JwtServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/stationCamera" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -43,9 +45,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PC/Downloads/transport-allocation-system"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Downloads\transport-allocation-system" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
